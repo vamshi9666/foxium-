@@ -1,0 +1,27 @@
+{
+  "name": "foxium",
+  "version": "1.0.0",
+  "description": "a pure browser with vs engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamshi9666/foxium-.git"
+  },
+  "keywords": [
+    "v8",
+    "chrome",
+    "firefox",
+    "browser",
+    "javascript",
+    "electron"
+  ],
+  "author": "vamshi9666",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamshi9666/foxium-/issues"
+  },
+  "homepage": "https://github.com/vamshi9666/foxium-#readme"
+}
