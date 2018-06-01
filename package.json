@@ -2,7 +2,7 @@
   "name": "foxium",
   "version": "1.0.0",
   "description": "a pure browser with vs engine",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "electron ."
   },
